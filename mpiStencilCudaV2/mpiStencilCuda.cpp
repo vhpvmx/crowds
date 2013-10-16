@@ -26,7 +26,10 @@
 //Compilation: make
 //Local Execution: optirun mpirun -np 4 ./mpiStencilCuda
 /*******************************************************************
-usar git
+Instrucciones para subirlo a github: https://help.github.com/articles/create-a-repo
+git commit -a -m "message" //actualiza en el repo todos los archivos modificados o borrados
+git add file //agrega un nuevo archivo al repo
+git push origin master
 envio de mensajes mpi dinamicos
 uso de gpu direct
 hacer pruebas en minotauro
