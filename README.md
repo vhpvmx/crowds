@@ -2,10 +2,7 @@ In this repository you can find the code of my thesis project "Parallel Simulati
 
 The objetive is to implement and compare different parallel programming approaches to simulate and visualize large crowds on a heterogeneous computing architecture.
 
-MPI
-CUDA
-OpenGL
-Ompss
+Keywords: MPI, CUDA, OpenGL, Ompss, GPU, Crowd
 
 
 
