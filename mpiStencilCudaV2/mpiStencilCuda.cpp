@@ -47,8 +47,8 @@ uso de git
 //#define DEBUG
 #define REFRESH_DELAY     10 //ms
 
-#define agent_width 3
-#define agent_height 3
+#define agent_width 100
+#define agent_height 100
 #define world_width 1024
 #define world_height 3072
 #define nreps 15
