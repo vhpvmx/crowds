@@ -26,7 +26,6 @@
 //Compilation: make
 //Local Execution: optirun mpirun -np 4 ./mpiStencilCuda
 /*******************************************************************
-usar git
 envio de mensajes mpi dinamicos
 uso de gpu direct
 hacer pruebas en minotauro
