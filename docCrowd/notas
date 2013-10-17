@@ -1,0 +1,5 @@
+OpenMPI soporta envio directo de memoria cuda entre nodos, checar si funciona
+http://www.open-mpi.org/faq/?category=running#mpi-cuda-support
+
+PRACE Best Practice Guide
+http://www.open-mpi.org/faq/?category=running#mpi-cuda-support
